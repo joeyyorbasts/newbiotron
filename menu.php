@@ -13,7 +13,7 @@
 	<li><a href="company.php" class="comp">Company</a></li>
 	<li><a href="faq.php" class="faq">Faq's</a></li>
 	<li><a href="contact.php" class="con">Contact</a></li>
-	<li><a href="news/" class="news">News</a></li>
+	/*<li><a href="news/" class="news">News</a></li>*/
 </ul>
  			
  		
