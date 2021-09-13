@@ -9,9 +9,9 @@
 <link rel="stylesheet" type="text/css" href="css/main.css" />
 
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 <script type="text/javascript" src="scripts/jquery.cycle.all.min.js"></script>
-<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script src="//www.google.com/jsapi" type="text/javascript"></script>
 <script type="text/javascript" src="scripts/jquery.gfeed.js"></script>
 <script type="text/javascript" src="scripts/base.js"></script>
 
