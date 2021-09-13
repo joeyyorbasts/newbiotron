@@ -70,7 +70,7 @@
 									<div class="cell-3">
 										<img src="images/layout/news-title.jpg" border="0">
 										<div id="feed"></div>
-										<p><a href="news/">View all »</a></p>
+										
 									</div>
 									
 
