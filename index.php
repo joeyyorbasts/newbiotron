@@ -65,6 +65,12 @@
 										<img src="images/layout/products-title.jpg" border="0"/>
 										<p>Products that prove vital in the cultivation of general health and well-being.</p>
 										<p><a href="products.php" >View our products &raquo;</a></p>
+										
+										<div class="cell-3">
+										<img src="images/layout/news-title.jpg" border="0">
+										<div id="feed"></div>
+										<p><a href="news/">View all »</a></p>
+									</div>
 									
 
 						</div>
