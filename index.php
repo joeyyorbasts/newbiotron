@@ -67,11 +67,11 @@
 										<p><a href="products.php" >View our products &raquo;</a></p>
 									</div>
 
-									<div class="cell-3">
+									/*<div class="cell-3">
 										<img src="images/layout/news-title.jpg" border="0"/>
 										<div id="feed"></div>
 										<p><a href="news/" >View all &raquo;</a></p>
-									</div>
+									</div>*/
 
 						</div>
 						<!-- /highlight-->
